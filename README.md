@@ -1,5 +1,18 @@
-# Please answer the following questions:
+![{AA19CD5E-1F61-4B24-973B-E8147BD41ADD}](https://github.com/user-attachments/assets/db3a8f76-a59b-44a3-93e8-4573b1232056)# Please answer the following questions:
 ## Please answer the following questions:
+
+### JMETER
+![{AA19CD5E-1F61-4B24-973B-E8147BD41ADD}](https://github.com/user-attachments/assets/89e18aa2-79cc-40b2-afe3-c3e7ffaa38a9)
+![Uploading {FC151CD5-8A6C-45EF-BA8E-38A838F0AEC6}.png…]()
+
+### HIGHEST GPA
+![{4B909F00-A689-4CD7-8B6D-52823B3EACFE}](https://github.com/user-attachments/assets/9ff3209c-18e1-4a56-8f6a-3c9018b9273b)
+![{CD89A916-4530-472B-AB63-F3C72E9664D0}](https://github.com/user-attachments/assets/102d9df2-aad2-4cd6-93e7-132b49386c35)
+
+## ALL STUDENT NAME
+![{CE9D2995-7C5F-4162-8321-498B27C6187A}](https://github.com/user-attachments/assets/5f5e7b0e-51bc-4940-8d25-386e59c6cfe0)
+![{17534FA7-076F-4D45-8821-BB1E6C6CDFA4}](https://github.com/user-attachments/assets/8919ea96-615c-47c0-8800-28742980b08f)
+
 
 ### 1. What is the difference between the approach of performance testing with JMeter and profiling with IntelliJ Profiler in the context of optimizing application performance?
 JMeter berfungsi untuk menguji kinerja aplikasi dengan mensimulasikan lalu lintas pengguna, mengukur waktu respons, throughput, dan menemukan hambatan pada sistem atau jaringan. Sementara itu, IntelliJ Profiler lebih berfokus pada analisis internal kode dengan memantau penggunaan CPU, memori, dan eksekusi thread untuk mengidentifikasi inefisiensi pada tingkat metode atau algoritma. Singkatnya, JMeter mengukur performa dalam skala besar, sedangkan IntelliJ Profiler membantu meningkatkan efisiensi eksekusi kode dari dalam.
